@@ -106,7 +106,7 @@ You may type the feature you want to add and the application will search search 
 * You can add feature and then press compute or press compute right away. The following window will appear. You can select both axis from the window for graphical representation. Default options are suggested for best insight.
 ![Screenshot](Capture3.JPG)
 
-* **Following plot will be opened along with the rank of countries. **
+* **Following plot will be opened along with the rank of countries.**
 
 ![Screenshot](graph.png)
 
