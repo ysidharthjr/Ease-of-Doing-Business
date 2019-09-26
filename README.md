@@ -54,6 +54,8 @@ Expanding Business globally is a challenge for organizations. Companies' Resourc
 * **Geographical Features:**
 1. Average Precipitation (mm per Year)
 
+* **Domain specific feature are also added. So that result can be targeted to certain kind of market. In this project pharma market is being target. So relevent features are added e.g. disease related data etc.**
+
 # Country Market Rating (index)
 
 Country market rating will indicate the ease of doing business in various country or for market penetration.
@@ -94,9 +96,24 @@ After running the code from the given file data will be extracted from UNDP and 
 (10 min - 15 min is average waiting time)
 **(If the application crashes after running for the first time then try running it again from line 184. This time it will not take much time and will be instantaneous.)**
 
-After that following window will appear:
+* After some time following window will appear:
+![Screenshot](Capture.JPG)
 
+* In the above window you can choose to add new features. If you do so then following window will appear:
+![Screenshot](Capture1.JPG)
+You may type the feature you want to add and the application will search search that feature in world bank database. Search result will appear and you can choose to add the feature.
 
+* You can add feature and then press compute or press compute right away. The following window will appear. You can select both axis from the window for graphical representation. Default options are suggested for best insight.
+![Screenshot](Capture3.JPG)
+
+* **Following plot will be opened along with the rank of countries. **
+
+![Screenshot](graph.png)
+
+# Interpreting the plot
+
+Y axis represents Ease of Boing Business(From World Bank) and X axis represents Country Market Rating Final (Calculated by Our Application).
+So the countries which are higher are better for business in general. And the countries which are right most are best for business in the domain of target (Pharma in this case). Each country is coloured according to the cluster in which they belong and those countries which are in the same cluster have similar business environment. So if a company is alread working in a country belonging in a cluter, it will be easir for that country to enter other countries in the same cluster.
 
 ## Support and contact details
 
