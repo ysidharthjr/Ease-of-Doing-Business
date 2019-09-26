@@ -92,6 +92,7 @@ We divided the countries into 10 clusters.
 
 After running the code from the given file data will be extracted from UNDP and World Bank which may take some time depending on the system and internet speed.
 (10 min - 15 min is average waiting time)
+**(If the application crashes after running for the first time then try running it again from line 184. This time it will not take much time and will be instantaneous.)**
 
 After that following window will appear:
 
