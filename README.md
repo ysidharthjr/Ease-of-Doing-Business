@@ -1,4 +1,4 @@
-# Rating & Clustering of Country on the basis of Ease of doing Business for Specific and General market
+# Rating & Clustering of Country on the basis of Ease of doing Business for Specific and General market for Financial Descision Making
 
 #### _By **Yashashwi Sidharth**_
 
